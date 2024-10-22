@@ -156,7 +156,14 @@ Tuy nhiên khi ta thay đổi đuôi file thành `.jpeg` → vẫn không thể 
 
 - Điều kiện `getimagesize($uploaded_tmp)` : để  lấy thông tin về hình ảnh từ tệp được tải lên. Hàm này nhận đường dẫn tới tệp ảnh và trả về một mảng chứa các thông tin như chiều rộng, chiều cao, kiểu MIME,…  → nếu ảnh hợp lệ → TRUE nếu không → FALSE
 
+- Ta sẽ phải đổi định dạng của file php thành png (sử dụng HxD)
 
+![alt text](image-15.png)
 
+-> Ta thực hiện upload lại và đã thấy thành công 
 
+![alt text](image-16.png)
 
+=> Sử dụng command injection để move thành file .php và thu được kết quả như mong đợi -> lỗ hổng đã xuất hiện.
+
+![alt text](image-17.png)
