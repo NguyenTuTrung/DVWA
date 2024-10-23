@@ -20,8 +20,4 @@ Mục tiêu của DVWA là thực hành một số lỗ hổng web phổ biến 
 
 - [Reflected Cross Site Scripting (XSS)](Labs/XSS%20Reflect/XSS_reflect.md)
 
-<<<<<<< HEAD
 - [Stored Cross Site Scripting (XSS)](Labs/XSS%20Store/XSS_stored.md)
-=======
-- [Stored Cross Site Scripting (XSS)](labs/XSS%20Store/XSS_stored.md)
->>>>>>> 5edecaacff2f3594ad503435d4c40ed75314c1a4
