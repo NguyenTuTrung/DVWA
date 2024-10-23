@@ -6,18 +6,18 @@
 Mục tiêu của DVWA là thực hành một số lỗ hổng web phổ biến nhất, với nhiều mức độ khó khác nhau, với giao diện đơn giản và trực quan.
 
 
-- [Brute Force](labs/Brute_Force/Brute_Force.md)
+- [Brute Force](Labs/Brute_Force/Brute_Force.md)
 
-- [Command Injection](labs/Command%20Injection/command_injection.md)
+- [Command Injection](Labs/Command%20Injection/command_injection.md)
 
-- [Cross Site Request Forgery (CSRF)](labs/CRSF/CRSF.md)
+- [Cross Site Request Forgery (CSRF)](Labs/CRSF/CRSF.md)
 
-- [File Inclusion](labs/File%20Inclusion/file_inclusion.md)
+- [File Inclusion](Labs/File%20Inclusion/file_inclusion.md)
 
-- [File Upload](labs/File%20Upload/file_upload.md)
+- [File Upload](Labs/File%20Upload/file_upload.md)
 
-- [SQL Injection](labs/SQL%20Injection/SQL_injection.md)
+- [SQL Injection](Labs/SQL%20Injection/SQL_injection.md)
 
-- [Reflected Cross Site Scripting (XSS)](labs/XSS%20Reflect/XSS_reflect.md)
+- [Reflected Cross Site Scripting (XSS)](Labs/XSS%20Reflect/XSS_reflect.md)
 
-- [Stored Cross Site Scripting (XSS)](labs/XSS%20Store/XSS_stored.md)
+- [Stored Cross Site Scripting (XSS)](Labs/XSS%20Store/XSS_stored.md)
