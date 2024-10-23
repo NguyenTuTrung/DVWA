@@ -6,7 +6,7 @@
 Mục tiêu của DVWA là thực hành một số lỗ hổng web phổ biến nhất, với nhiều mức độ khó khác nhau, với giao diện đơn giản và trực quan.
 
 
-- [Brute Force](labs/Brute_Force/Brute_Force.md)
+- [Brute Force](Labs/Brute_Force/Brute_Force.md)
 
 - [Command Injection](labs/Command%20Injection/command_injection.md)
 
