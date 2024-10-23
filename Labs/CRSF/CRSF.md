@@ -107,4 +107,4 @@ Ban đầu mật khẩu của admin sẽ là 123
 
 ![alt text](image-9.png)
 
-
+=> Ta sẽ sử dụng CSRF để thực hiện đổi mật khẩu của user admin
